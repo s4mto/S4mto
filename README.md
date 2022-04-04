@@ -24,14 +24,16 @@
 ## Skills
 
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-[![Numpy Badge](https://img.shields.io/badge/-Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)](#)
-[![Pandas Badge](https://img.shields.io/badge/-Pandas-130654?style=for-the-badge&logo=pandas&logoColor=white)](#)
-[![Scipy Badge](https://img.shields.io/badge/-scipy-0054a6?style=for-the-badge&logo=scipy&logoColor=white)](#)
 [![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](#)
 
+[![Numpy Badge](https://img.shields.io/badge/-Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)](#)
+[![Pandas Badge](https://img.shields.io/badge/-Pandas-130654?style=for-the-badge&logo=pandas&logoColor=white)](#)
+[![Scipy Badge](https://img.shields.io/badge/-scipy-0054a6?style=for-the-badge&logo=scipy&logoColor=white)](#)
+
 [![SQL-Server Badge](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](#)
 [![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+
 [![Matplotlib Badge](https://img.shields.io/badge/-matplotlib-11557c?style=for-the-badge&logo=microstrategy&logoColor=white)](#)
 [![Seaborn Badge](https://img.shields.io/badge/-seaborn-7db0bc?style=for-the-badge&logo=cesium&logoColor=white)](#)
 [![Plotly Badge](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)](#)
