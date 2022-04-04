@@ -2,7 +2,7 @@
 
 
 ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="45px"> About Me:
-- 🖥️ I'm a Data Science & Machine Learning Trainee at Clarusway IT Bootcamp 
+- 🖥️ I'm a Data Science & Machine Learning Trainee at Fenyx IT Academy and Clarusway IT Bootcamp 
       <a href="https://clarusway.com"><img align="center" src="https://coursereport-production.imgix.net/uploads/school/logo/1167/original/CW_3d_transparent2.png?w=200&h=200&dpr=1&q=75" width="30"></a>
 - 💻 I use daily  **.py**, **.ipynb**
 - 🔭 I’m currently working on Data Science/Data Analysis Projects
@@ -16,7 +16,7 @@
   
 ## To Reach Me
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sametakyildiz)
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sametakildiznl.0@gmail.com)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/2/?ogbl#inbox)
   
 ---
 <br>
@@ -55,5 +55,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S4mto&theme=blue-green)](#)
 
-
-[![S4mto's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username={S4mto}&theme=blue-green)](#)
