@@ -1,6 +1,6 @@
 ### Hi there I'm Samet 👋
 
-- 🔭 I’m currently working on Data Analysis Projects
+- 🔭 I’m currently working on Data Science/Data Analysis Projects
 - 🌱 I’m currently learning Machine Learning
 - 🤔 I’m looking for help with Data Science/Data Analysis
 - 💬 Ask me about Data Analysis/Marketing
