@@ -21,17 +21,19 @@
 ---
 <br>
       
-## Top Skills
+## Skills
 
-[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)
-[![Numpy Badge](https://img.shields.io/badge/-Numpy-013243?style=for-the-badge&labelColor=black&logo=numpy&logoColor=013243)](#)
-[![Pandas Badge](https://img.shields.io/badge/-Pandas-130654?style=for-the-badge&labelColor=black&logo=pandas&logoColor=white)](#)
-[![Scipy Badge](https://img.shields.io/badge/-scipy-0054a6?style=for-the-badge&labelColor=black&logo=scipy&logoColor=0054a6)](#)
+[![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![Numpy Badge](https://img.shields.io/badge/-Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)](#)
+[![Pandas Badge](https://img.shields.io/badge/-Pandas-130654?style=for-the-badge&logo=pandas&logoColor=white)](#)
+[![Scipy Badge](https://img.shields.io/badge/-scipy-0054a6?style=for-the-badge&logo=scipy&logoColor=white)](#)
+[![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](#)
 
-[![SQL-Server Badge](https://img.shields.io/badge/-SQL_Server-CC2927?style=for-the-badge&labelColor=black&logo=microsoft-sql-server&logoColor=CC2927)](#)
-[![TODOs](https://badgen.net/https/api.tickgit.com/badgen/github.com/brianc/node-postgres)](https://www.tickgit.com/browse?repo=github.com/brianc/node-postgres)
-[![Matplotlib Badge](https://img.shields.io/badge/-matplotlib-11557c?style=for-the-badge&labelColor=black&logo=microstrategy&logoColor=11557c)](#)
-[![Seaborn Badge](https://img.shields.io/badge/-seaborn-7db0bc?style=for-the-badge&labelColor=black&logo=cesium&logoColor=7db0bc)](#)
+[![SQL-Server Badge](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](#)
+[![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+[![Matplotlib Badge](https://img.shields.io/badge/-matplotlib-11557c?style=for-the-badge&logo=microstrategy&logoColor=white)](#)
+[![Seaborn Badge](https://img.shields.io/badge/-seaborn-7db0bc?style=for-the-badge&logo=cesium&logoColor=white)](#)
 
 
 <br>
@@ -51,4 +53,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metastaban&theme=darcula&layout=compact)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S4mto&theme=blue-green)](#)
+
+
+https://github-readme-stats.vercel.app/api/top-langs/?username={S4mto}&theme=blue-green
