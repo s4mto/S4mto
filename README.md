@@ -9,8 +9,6 @@
 - 🌱 I’m currently learning Machine Learning
 - 🤔 I’m looking for help with Data Science/Data Analysis
 - 💬 Ask me about Data Analysis/Marketing
-- 📫 How to reach me: sametakildiznl.0@gmail.com
-                      https://www.linkedin.com/in/sametakyildiz
 - 😄 Pronouns: (he/him)
 <br>
 
@@ -18,7 +16,7 @@
   
 ## To Reach Me
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sametakyildiz)
-[![](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sametakildiznl.0@gmail.com)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sametakildiznl.0@gmail.com)
   
 ---
 <br>
