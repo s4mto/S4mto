@@ -56,4 +56,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S4mto&theme=blue-green)](#)
 
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={S4mto}&theme=blue-green
+[![S4mto's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username={S4mto}&theme=blue-green)](#)
