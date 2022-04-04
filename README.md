@@ -34,8 +34,11 @@
 [![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#)
 [![Matplotlib Badge](https://img.shields.io/badge/-matplotlib-11557c?style=for-the-badge&logo=microstrategy&logoColor=white)](#)
 [![Seaborn Badge](https://img.shields.io/badge/-seaborn-7db0bc?style=for-the-badge&logo=cesium&logoColor=white)](#)
+[![Plotly Badge](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)](#)
 
-
+[![Colab Badge](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=white)](#)
+[![VS Code Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#)
+      
 <br>
   
 ---
