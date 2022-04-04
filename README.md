@@ -12,20 +12,17 @@
 - 📫 How to reach me: sametakildiznl.0@gmail.com
                       https://www.linkedin.com/in/sametakyildiz
 - 😄 Pronouns: (he/him)
-
 <br>
 
 <center>
-  
   
 ## To Reach Me
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sametakyildiz)
 [![](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sametakildiznl.0@gmail.com)
   
 ---
-
 <br>
-
+      
 ## Top Skills
 
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)
@@ -34,7 +31,7 @@
 [![Scipy Badge](https://img.shields.io/badge/-scipy-0054a6?style=for-the-badge&labelColor=black&logo=scipy&logoColor=0054a6)](#)
 
 [![SQL-Server Badge](https://img.shields.io/badge/-SQL_Server-CC2927?style=for-the-badge&labelColor=black&logo=microsoft-sql-server&logoColor=CC2927)](#)
-[![PostgreSQL](https://img.shields.io/badge/-SQLite-003b57?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=003b57)](#)
+[![TODOs](https://badgen.net/https/api.tickgit.com/badgen/github.com/brianc/node-postgres)](https://www.tickgit.com/browse?repo=github.com/brianc/node-postgres)
 [![Matplotlib Badge](https://img.shields.io/badge/-matplotlib-11557c?style=for-the-badge&labelColor=black&logo=microstrategy&logoColor=11557c)](#)
 [![Seaborn Badge](https://img.shields.io/badge/-seaborn-7db0bc?style=for-the-badge&labelColor=black&logo=cesium&logoColor=7db0bc)](#)
 
