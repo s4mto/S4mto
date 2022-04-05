@@ -10,7 +10,8 @@
 - 🤔 I’m looking for help with Data Science/Data Analysis
 - 💬 Ask me about Data Analysis/Marketing
 - 😄 Pronouns: (he/him)
-<br>
+
+---
 
 <center>
   
