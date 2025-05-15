@@ -2,7 +2,7 @@
 
 
 ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="45px"> About Me:
-- 🖥️ I'm a Data Science & Machine Learning Trainee at Fenyx IT Academy and Clarusway IT Bootcamp 
+- 👨‍🎓 Master’s Student in Data Science
       <a href="https://clarusway.com"><img align="center" src="https://coursereport-production.imgix.net/uploads/school/logo/1167/original/CW_3d_transparent2.png?w=200&h=200&dpr=1&q=75" width="30"></a>
 - 💻 I use daily  **.py**, **.ipynb**
 - 🔭 I’m currently working on Data Science/Data Analysis Projects
