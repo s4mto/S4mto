@@ -2,13 +2,14 @@
 
 
 ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="45px"> About Me:
-- 👨‍🎓 Master’s Student in Data Science
-- 💻 I use daily  **.py**, **.ipynb**
-- 🔭 I’m currently working on Data Science/Data Analysis Projects
-- 🌱 I’m currently learning Machine Learning
-- 🤔 I’m looking for help with Data Science/Data Analysis
-- 💬 Ask me about Data Analysis/Marketing
-- 😄 Pronouns: (he/him)
+- 👨‍🎓 Master’s Student in Data Science | Based in the Netherlands 🇳🇱
+- 💻 Daily tools: Python (.py), Jupyter (.ipynb), Pandas, Scikit-learn, SQL
+- 📊 Focused on Data Science, Data Analysis, Data Engineering, and Real-World Applications
+- 📁 Actively building end-to-end projects using real datasets
+- 🔍 Open to full-time, part-time, or internship opportunities in the data field (Data Science, Analytics, Engineering)
+- 💡 Passionate about turning raw data into clear, actionable insights
+- 🌱 Currently learning how to improve model performance and interpretability
+- 😄 Pronouns: he/him
 
 ---
 
